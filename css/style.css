@@ -25,6 +25,10 @@ nav {
   top: 0;
 }
 
+nav.scroll {
+  padding: 10px;
+}
+
 nav ul {
   list-style: none;
   display: flex;
