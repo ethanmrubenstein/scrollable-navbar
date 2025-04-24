@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function toggleTransparency() {
     if (window.scrollY > 0) {
       navbar.classList.add("scroll");
+    } else {
+      navbar.classList.remove("scroll");
     }
   }
 
