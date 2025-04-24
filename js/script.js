@@ -1,5 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const navbar = document.getElementById("nav");
 
-  function toggleTransparency() {}
+  function toggleTransparency() {
+    if (window.scrollY > 0) {
+    }
+  }
 });
