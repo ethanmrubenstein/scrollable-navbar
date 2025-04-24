@@ -1,1 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {});
+document.addEventListener("DOMContentLoaded", () => {
+  const navbar = document.getElementById("nav");
+});
