@@ -38,3 +38,9 @@ nav ul li a {
 nav ul li a:hover {
   color: #ccc;
 }
+
+/* Main */
+main {
+  max-width: 1100px;
+  padding: 1rem;
+}
