@@ -6,4 +6,6 @@ document.addEventListener("DOMContentLoaded", () => {
       navbar.classList.add("scroll");
     }
   }
+
+  window.addEventListener("scroll", toggleTransparency);
 });
